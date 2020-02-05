@@ -1,4 +1,4 @@
-# dipena_full
+# dipena
 
 A new Flutter project.
 
